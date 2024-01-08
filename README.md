@@ -45,7 +45,7 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 [<img align="left" height="94px" width="94px" alt="FMD" src="https://media.licdn.com/dms/image/C4D0BAQGb7qsNyZcPaw/company-logo_200_200/0/1672750237673?e=1705536000&v=beta&t=dlRp4On2smiP1jf47q_hExEgCqDQHTMHc4WaLZBAweI"/>](https://fmd.ag/)
 
 **Front-end Developer (Jr)** \
-[**Agência F&MD**](https://fmd.ag/) • Estágio \
+[**Agência F&MD**](https://fmd.ag/) • Desenvolvedora jr. \
 Linguagens & Tecnologias: `HTML`, `CSS`, `JavaScript`, `Bootstrap`, `Blade`,`SASS`\
 Projetos em destaque: [F&MD - Starter](https://github.com/agenciafmd/starter)
 <br/>
