@@ -1,4 +1,4 @@
-<a href="https://app.daily.dev/viviannadoti"><img src="https://api.daily.dev/devcards/0a406a675c8b46c68b205618c2b7d264.png?r=t8e" min-width="300px" max-width="300px" width="300px" align="right" alt="Vivian Nadoti's Dev Card"/></a>
+<a href="https://app.daily.dev/viviannadoti"><img src="https://api.daily.dev/devcards/v2/MThApKY2KWAdX39ihXO7q.png?r=2np&type=default" width="356" align="right" alt="Vivian Nadoti's Dev Card"/></a>
 
 <h1>Hello world 🖖🏻 </h1>
 
@@ -42,7 +42,7 @@ Experiência de trabalho
 <br> <br>
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-[<img align="left" height="94px" width="94px" alt="FMD" src="https://media.licdn.com/dms/image/C4D0BAQGb7qsNyZcPaw/company-logo_200_200/0/1672750237673?e=1705536000&v=beta&t=dlRp4On2smiP1jf47q_hExEgCqDQHTMHc4WaLZBAweI"/>](https://fmd.ag/)
+[<img align="left" height="94px" width="94px" alt="FMD" src="https://media.licdn.com/dms/image/C4D0BAQGb7qsNyZcPaw/company-logo_200_200/0/1672750238154/agenciafmd_logo?e=1716422400&v=beta&t=T74KPhu0N6LfIrL2JN7S8JgzlbN8to-iq0HNn6E5ick"/>](https://fmd.ag/)
 
 **Front-end Developer (Jr)** \
 [**Agência F&MD**](https://fmd.ag/) • Desenvolvedora jr. \
